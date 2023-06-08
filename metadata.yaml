@@ -1,0 +1,48 @@
+_repo: Rudin_70892
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Turgenjeff, Iwan
+    - Turgenev, I. S.
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
+description: 'Translation of: Рудин.'
+gutenberg_issued: '2023-06-01'
+identifiers:
+  gutenberg: '70892'
+language: fi
+pgterms:marc905: 20230105094424turgenev
+pgterms:marc906: '1896'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Russia -- Intellectual life -- 1801-1917 -- Fiction'
+- !lcsh 'Upper class -- Russia -- Fiction'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Rudin
+url: http://www.gutenberg.org/ebooks/70892
