@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
 description: 'Translation of: Рудин.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70892#Rudin
 gutenberg_issued: '2023-06-01'
 identifiers:
   gutenberg: '70892'
